@@ -2,7 +2,7 @@
  IFRJ 6/7 <br>
  <hr>
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="www.linkedin.com/in/martins-yan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marti-yan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti-yan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
