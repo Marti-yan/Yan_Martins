@@ -1,5 +1,6 @@
 <h2> Olá, Yan Martins aqui; </h2>
-<h3> IFRJ 7/7 TI <br> </h3>
+<h3> Tecnico em informatica formado pelo IFRJ <br> </h3>
+<h3>Estacio - Desenvolvimento full stack (2/5)</h3>
  <hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/martins-yan">
